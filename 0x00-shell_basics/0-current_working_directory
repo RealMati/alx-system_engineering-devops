@@ -1,2 +1,2 @@
-0-current_working_directory
-press
+#!/bin/bash
+pwd
